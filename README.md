@@ -1,0 +1,1 @@
+An app that presents entrepreneurship and moneymaking opportunities in an efficient and innovative fashion.
